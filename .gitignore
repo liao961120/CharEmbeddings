@@ -1,0 +1,13 @@
+bin
+cc.zh.300.vec
+etc
+fasttext
+include
+lib
+lib64
+mycert.pem
+mykey.key
+pd_embedings.pkl
+pip-selfcheck.json
+pyvenv.cfg
+share
