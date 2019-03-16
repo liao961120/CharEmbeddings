@@ -11,3 +11,6 @@ pd_embedings.pkl
 pip-selfcheck.json
 pyvenv.cfg
 share
+pd_embedings_trad1000.pkl
+as_wordFreq.pickle
+as_chFreq.pickle
